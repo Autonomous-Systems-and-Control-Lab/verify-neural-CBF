@@ -16,7 +16,18 @@ For the verificaiton under Dubins Car, see Jupyter file `verify_car.ipynb`. Simi
 
 ## Citation 
 If you find the repo useful, please cite:
-
+```
+@inproceedings{zhang2026efficient,
+title={Efficient Verification of Neural Control Barrier Functions with Smooth Nonlinear Activations},
+author={Jun Zhang and Haibo Zhang and Chun Liu and Xiaofan Wang and Liang Xu},
+year={2026},
+eprint={2605.07757},
+archivePrefix={arXiv},
+primaryClass={cs.LG},
+% url={https://arxiv.org/abs/2605.07757},
+}
+```
+Our code is developed on the basis of the study presented in the following paper:
 H. Hu, Y. Yang, T. Wei and C. Liu
 "[Verification of Neural Control Barrier Functions with Symbolic Derivative Bounds Propagation](https://openreview.net/forum?id=jnubz7wB2w)", Conference on Robot Learning (CoRL). PMLR, 2024
 ```
